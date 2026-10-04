@@ -1,0 +1,6 @@
+{
+  "name": "RM Call",
+  "description": "RM Call is a simple communication app designed to make chatting, voice calling and video calling easy and convenient for everyone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
